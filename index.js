@@ -13,7 +13,7 @@ function combineUsers(...args) {
   }
 
   combinedObject.merge_date = new Date().toString("M/d/yyyy");
-
+//changed file
   return combinedObject;
 }
 
